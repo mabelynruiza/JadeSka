@@ -29,9 +29,9 @@ public class CicloFor {
             }
 
         }
-
-        System.out.println("Cantidad de aprobados: " + aprovados);
-        System.out.println("Cantidad de reprobados: " + reprobados);
+        System.out.println(estudiantes);
+        System.out.println("Cantidad de estudiantes aprobados: " + aprovados);
+        System.out.println("Cantidad de estudiantes reprobados: " + reprobados);
 
         teclado.close();
 
